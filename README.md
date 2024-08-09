@@ -10,17 +10,13 @@
 
 ###
 
- <div align="left">
-      <a href="https://www.facebook.com/renzy.0000" style="text-decoration: none;" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"/>
-      </a><img width="10" />
-      <a href="https://www.instagram.com/r.early_/" style="text-decoration: none;" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
-      </a><img width="10" />
-      <a href="https://www.linkedin.com/in/renz-earl-arcibal-19b27a230/" style="text-decoration: none;" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
-      </a>
-      <img width="10" />
-      <a href="https://github.com/renzy-code" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"/></a>
+<div align="left" style="text-decoration: none;">
+<a href="https://www.facebook.com/renzy.0000"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"/></a><img width="10" />
+<a href="https://www.instagram.com/r.early_/"><img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  /> </a><img width="10" />
+<a href="https://www.linkedin.com/in/renz-earl-arcibal-19b27a230/"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  /></a><img width="10" />
+<a href="https://github.com/renzy-code"><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"/></a>
     </div>
-
+ 
 ###
 
 <h3 align="left">🛠 Language and tools:</h3>
