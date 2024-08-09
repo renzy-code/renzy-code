@@ -11,13 +11,15 @@
 ###
 
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+   <a href="https://www.facebook.com/renzy.0000" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30"             
+   alt="facebook logo"/>
+   </a><img width="10" />
+   <a href="https://www.instagram.com/r.early_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
+   </a><img width="10" />
+   <a href="https://www.linkedin.com/in/renz-earl-arcibal-19b27a230/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
+   </a>
+   <img width="10" />
+   <a href="https://github.com/renzy-code" target="_self"><img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"/></a>
 </div>
 
 ###
