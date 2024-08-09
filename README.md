@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="30" alt="facebook logo"  />
+  <img src="https://skillicons.dev/icons?i=facebook" height="30" alt="facebook logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
   <img width="10" />
