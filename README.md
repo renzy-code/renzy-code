@@ -11,13 +11,13 @@
 ###
 
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="25" alt="facebook logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="30" alt="facebook logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="25" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="25" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="25" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
 ###
