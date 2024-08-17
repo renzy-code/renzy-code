@@ -60,6 +60,10 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=renzy-code.renzy-code&"  />
+</div>
+
 ###
 
 <br clear="both">
