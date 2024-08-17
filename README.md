@@ -70,6 +70,8 @@
   <img src="https://streak-stats.demolab.com?user=renzy-code&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
 
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=renzy-code.renzy-code&"  />
 </div>
