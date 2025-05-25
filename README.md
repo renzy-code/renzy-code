@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning: Front-end, JavaScript, SQL Database, Software & Hardware Troubleshooting.<br>👨‍💻 All of my projects are available at https://github.com/renzy-code<br>📫 How to reach me: https://renzearl.arcibal@gmail.com<br>⚡ Fun fact: I think I am funny</p>
+<p align="left">🌱 I’m learning: Front-end, JavaScript, SQL Database, Networking, Software & Hardware Troubleshooting.<br>👨‍💻 All of my projects are available at https://github.com/renzy-code<br>📫 How to reach me: https://renzearl.arcibal@gmail.com<br>⚡ Fun fact: I think I am funny</p>
 
 ###
 
